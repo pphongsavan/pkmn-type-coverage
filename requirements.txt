@@ -1,0 +1,6 @@
+requests
+argparse
+sys
+roman
+itertools
+tabulate
