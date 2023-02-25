@@ -234,3 +234,14 @@ python project.py -h
 ```
 
 There may be a slight delay since this calls the API to check the available version data.
+
+## Future Updates
+Some future updates I'm thinking about
+- Decoupling functions
+- More prompts such as, does this Pokemon learn any ___ type moves?
+
+## Contributing
+Feel free to make any pull requests, but please update the tests as well.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
